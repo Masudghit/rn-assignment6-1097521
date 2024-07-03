@@ -1,0 +1,17 @@
+ProductApp
+├── App.js
+├── assets
+│   ├── dress1.png
+│   ├── dress2.png
+│   ├── dress3.png
+│   ├── dress4.png
+│   ├── dress5.png
+│   ├── dress6.png
+│   ├── dress7.png
+│   ├── add_circle.png
+│   ├── remove.png
+│   ├── shoppingBag.png
+├── screens
+│   ├── HomeScreen.js
+│   ├── CartScreen.js
+├── package.json
